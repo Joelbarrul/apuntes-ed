@@ -1,8 +1,12 @@
-\# GIT CON HERRAMIENTAS GRÁFICAS
+# GIT CON HERRAMIENTAS GRÁFICAS
 
 
 
+ HEAD
 hola 1.2
+
+hola 1.1
+ validacion
 
 
 
